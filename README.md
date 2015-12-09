@@ -12,3 +12,7 @@ A collection of Meteor stuff that I find interesting/useful (Listed in no partic
 * [nimble:restivus](https://atmospherejs.com/nimble/restivus) - Restivus makes building REST APIs in Meteor easier than ever before.
 * [meteortoys:allthings](https://atmospherejs.com/meteortoys/allthings) - Insanely Handy Development Tools.
 * [iron:router](https://atmospherejs.com/iron/router) - Routing specifically designed for Meteor.
+* [alanning:roles](https://atmospherejs.com/alanning/roles) - Add roles to users in Meteor.
+* [reactive-dict](https://atmospherejs.com/meteor/reactive-dict) - A general-purpose reactive datatype.
+
+### For more Meteor stuff, refer to [Urigo/awesome-meteor](https://github.com/Urigo/awesome-meteor)
